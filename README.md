@@ -25,7 +25,7 @@ Code released under the [MIT license](LICENSE).
 <img src="https://elewah.github.io/Tamra/logos/logo-horizontal.png" width="300" alt="Tamra Logo" title="Tamra">
 </a>
 <a href="">
-<img src="https://elewah.github.io/Tamra/logos/white.png" width="300">
+<img src="https://elewah.github.io/Tamra/logos/white.png" width="400">
 </a>
 <a href="https://iotresearchlab.ca/">
 <img src="https://elewah.github.io/Tamra/logos/IoT-lab.png" width="300" alt="IoT-Lab Logo" title="IoT Lab">
