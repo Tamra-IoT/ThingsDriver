@@ -22,7 +22,7 @@ Code released under the [MIT license](LICENSE).
 ## 
 </br>
 <a href="https://tamra-iot.com/">
-<img src="https://elewah.github.io/Tamra/logos/logo-horizontal.png" width="300" alt="Tamra Logo" title="Tamra">
+<img src="https://elewah.github.io/Tamra/logos/logo-horizontal.png" width="250" alt="Tamra Logo" title="Tamra">
 </a>
 <a href="https://ontariotechu.ca/">
 <img src="https://elewah.github.io/Tamra/logos/ontariotechu-log.jpg"  alt="Ontariotechu Logo"  width="250">
