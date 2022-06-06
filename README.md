@@ -10,6 +10,9 @@
  2. [Quick start](#2-quick-start)
     - [Required Part](#required-part)
     - [Download ThingsDriver repository](#download-thingsdriver-repository)
+    - [Install ThingsDriver Firmware on Arduino UNO Board](#install-thingsdriver-firmware-on-arduino-uno-board)
+    - [Install ThingsDriver Firmware on NodeMCU Board](#install-thingsdriver-firmware-on-arduino-uno-board)
+    - [Connect The Two Boards as Shown Below](#connect-the-two-boards-as-shown-below)
 
  4. [About Us](#3-about-us)
  5. [Copyright and Licenses](#4-copyright-and-licenses)
@@ -29,10 +32,34 @@ ThingsDriver is a new methodology in how we can govern IoT devices. When we conn
  7. USB to Micro USB Cable wire
  ### Download ThingsDriver repository 
  Use the command below to download the demo code using the command line interface, or click [here](https://github.com/Tamra-IoT/ThingsDriver/archive/refs/heads/main.zip) to download the demo code as a zip file.
-
-```
+ 
+ ```
 git clone https://github.com/Tamra-IoT/ThingsDriver.git
 ```
+ ### Install ThingsDriver Firmware on Arduino UNO Board 
+ (Peripherals controller Firmware)
+ 1. Using the Arduino IDE, open the AVR code.
+ 2. Connect your Arduino board using the USB cable to your computer.
+ 3. Choose the right board and terminal from the tools menu from the menu bar. For the board, choose UNO and for the terminal, select the one that appears in your list COM3/COMx, and sometimes the list shows the connected board names.
+ 4. Upload the code to the connected board using the right arrow symbol on the up-left corner.
+ 5. Don't disconnect the board until you see "done uploading" down on the green bar.  
+ 
+ ### Install ThingsDriver Firmware on NodeMCU Board. 
+ (Gateway Firmware)
+ 
+ Follow the same step that you did to upload the code on the Arduino UNO board, but select the right board name, NodMCU, and the right port that will appear when you connect the NodMCU board to your computer.
+ 
+ Hint: If you did not use the Arduino IDE to upload codes on the NodMCU before, you have to add the NodMCU configuration on the Arduino IDE first. Follow this link [here](https://create.arduino.cc/projecthub/electropeak/getting-started-w-nodemcu-esp8266-on-arduino-ide-28184f) to add the NodeMCU configuration.
+ 
+ ### Connect The Two Boards as Shown Below
+ - Arduino UNO board communicates serially with the NodMCU board.
+ - Connect Arduino UNO to the power source using the 5V-2A adapter
+ - Using the 5V pin on the Arduino UNO, connect The NodMCU power pin and Unify the ground of the boards by connecting the ground pins as shown in the image below.   
+<a href="https://tamra-iot.com/">
+<img src="https://elewah.github.io/Tamra/ThingsDriver/schematic_bb.svg" width="250" alt="Tamra Logo" title="Tamra">
+</a>
+
+
  
 
 ### 3. About Us:
