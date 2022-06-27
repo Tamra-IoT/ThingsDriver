@@ -63,7 +63,7 @@ git clone https://github.com/Tamra-IoT/ThingsDriver.git
  
 
 ### 3. About Us:
-Tamra is an incubated startup in the Ebni incubator. In 2018, Tamra won seed funding in the ICT track at the InnoEgypt program. Apart from the commercial side, one of the Co-founder is doing his Ph.D. degree in Ontario tech university at IoT lab. He developed ThingsDriver as a small gear on his thesis topic, Public Sensing.
+Tamra is an incubated startup in the Ebni incubator. In 2018, Tamra won seed funding in the ICT track at the InnoEgypt program. Apart from the commercial side, one of the Co-founder is doing his Ph.D. degree in Ontario tech university at IoT lab. He developed ThingsDriver as a small gear on his thesis topic, [Public Sensing](https://elewah.github.io/Public-Sensing/Public-Sensing.html).
 
 
  
