@@ -13,9 +13,9 @@
     - [Install ThingsDriver Firmware on Arduino UNO Board](#install-thingsdriver-firmware-on-arduino-uno-board)
     - [Install ThingsDriver Firmware on NodeMCU Board](#install-thingsdriver-firmware-on-arduino-uno-board)
     - [Connect The Two Boards as Shown Below](#connect-the-two-boards-as-shown-below)
-
- 4. [About Us](#3-about-us)
- 5. [Copyright and Licenses](#4-copyright-and-licenses)
+ 3. [Citations](#3-citations)
+ 4. [About Us](#4-about-us)
+ 5. [Copyright and Licenses](#5-copyright-and-licenses)
 
 ## 1. Why ThingsDriver
 ThingsDriver is a new methodology in how we can govern IoT devices. When we connect a device such as a printer to the local personal computer (PC), the PC requires installing the printer driver to get the printer configurations. ThingsDriver adopts the same concept, where IoT devices in the thingsDriver architecture are extendable from the cloud, and the cloud needs the IoT devices driver to govern them. Looking at IoT devices as extendable components from the cloud can pave the way for a collaborative IoT environment.
@@ -59,15 +59,18 @@ git clone https://github.com/Tamra-IoT/ThingsDriver.git
 <img src="https://elewah.github.io/Tamra/ThingsDriver/schematic_bb.svg" width="250" alt="Tamra Logo" title="Tamra">
 </a>
 
+### 3. Citations:
+Kindly cite this paper in your research if it helps your work.
 
+[A. Elewah, W. M. Ibrahim, A. Rafıkl and K. Elgazzar, "ThingsDriver: A Unified Interoperable Driver for IoT Nodes," 2022 International Wireless Communications and Mobile Computing (IWCMC), 2022, pp. 877-882, doi: 10.1109/IWCMC55113.2022.9824989.](https://ieeexplore.ieee.org/document/9824989)
  
 
-### 3. About Us:
+### 4. About Us:
 Tamra is an incubated startup in the Ebni incubator. In 2018, Tamra won seed funding in the ICT track at the InnoEgypt program. Apart from the commercial side, one of the Co-founder is doing his Ph.D. degree in Ontario tech university at IoT lab. He developed ThingsDriver as a small gear on his thesis topic, [Public Sensing](https://iotresearchlab.ca/public-sensing-as-a-service).
 
 
  
-### 4. Copyright and Licenses
+### 5. Copyright and Licenses
 
 Code released under the [MIT license](LICENSE).
 
